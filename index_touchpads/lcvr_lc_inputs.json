@@ -297,7 +297,7 @@
         {
           "name": "Interact: Right Grip Button",
           "id": "a7e5a03c-3ab7-45be-970a-a9c2963502fc",
-          "path": "<XRController>{RightHand}/gripButton",
+          "path": "<XRController>{RightHand}/gripGrab",
           "interactions": "",
           "processors": "",
           "groups": "",
@@ -308,7 +308,7 @@
         {
           "name": "Crouch: Left Touchpad Touch",
           "id": "e3c54809-7fb3-4bc6-9aed-40a36b018c06",
-          "path": "<XRController>{LeftHand}/touchpadTouched",
+          "path": "<XRController>{LeftHand}/touchpadClicked",
           "interactions": "",
           "processors": "",
           "groups": "",
@@ -374,7 +374,7 @@
         {
           "name": "Secondary Use: Right Touchpad Touch",
           "id": "98208326-0c62-44ca-8a9c-7d2040e8ef05",
-          "path": "<XRController>{RightHand}/touchpadTouched",
+          "path": "<XRController>{RightHand}/touchpadClicked",
           "interactions": "",
           "processors": "",
           "groups": "",
@@ -385,7 +385,7 @@
         {
           "name": "Tertiary Use: Right Grip Button",
           "id": "92390ba9-1945-4659-abce-9b00cba8fb4b",
-          "path": "<XRController>{RightHand}/gripButton",
+          "path": "<XRController>{RightHand}/gripGrab",
           "interactions": "",
           "processors": "",
           "groups": "",
